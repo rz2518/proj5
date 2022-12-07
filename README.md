@@ -12,7 +12,7 @@ Term: Fall 2022
 + **Project summary**: In this project, we explored users information data of a Chinese video-sharing website, Bilibli. We have looked data from different perspectives, such as video uploaders numbers, uploaders types, active uploader percentage, video types, etc. Also, we have done data visualization according to different perspectives.
 
 
-+ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
++ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) Fu implmented data cleaning and loading files, MySQL DDL files, and tableau dashboard and PowerPoint Slides. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
