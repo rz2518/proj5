@@ -3,7 +3,7 @@
 Term: Fall 2022
 
 + Team #4
-+ Projec title: BBUser Analysis
++ Projec title: Bilibili Users Analysis
 + Team members
 	+ Fang, Jiaxi  jf3413@columbia.edu
 	+ Wang, Fu     fw2376@columbia.edu
